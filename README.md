@@ -5,4 +5,6 @@ Decrypt decrypts that string with that same key.
 
 EncryptDecrypt puts both in the same package.
 
+Use it as an educational resource, use it in your project or whatever, but please provide attribution.
+
 Please note that this is a demonstration that only rotates the letters by the number specified by the key. Do not use this to encrypt any serious data. I do not claim responsibility for data lost while using this script.
